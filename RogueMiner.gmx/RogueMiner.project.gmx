@@ -8,6 +8,11 @@
   <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <scripts name="quadtree">
+      <script>scripts\qtCreate.gml</script>
+    </scripts>
+  </scripts>
   <help>
     <rtf>help.rtf</rtf>
   </help>
