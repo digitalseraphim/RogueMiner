@@ -10,7 +10,8 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <scripts name="quadtree">
-      <script>scripts\qtCreate.gml</script>
+      <script>scripts\quadtree\qtCreate.gml</script>
+      <script>scripts\quadtree\qtGetChunk.gml</script>
     </scripts>
   </scripts>
   <help>
